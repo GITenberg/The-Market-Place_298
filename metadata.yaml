@@ -1,0 +1,35 @@
+_repo: The-Market-Place_298
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frederic, Harold
+    birthdate: 1856
+    deathdate: 1898
+    gutenberg_agent_id: '83'
+    url: http://www.gutenberg.org/2009/agents/83
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Frederic
+description: 'Published in 1899, just after his unexpected death, The Market-Place
+  became one of Frederic''s most successful novels. It offers psychological insight
+  into its hero the late-Victorian equivalent of Gordon Gekko an amoral London businessman
+  named Joel Thorpe, caring for only two things in the world: money and power. He
+  prefers to hoard the former and spend the latter.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2008-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '298'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Nobility -- Fiction'
+- !lcsh 'Jews -- Fiction'
+- !lcsh 'Stock exchanges -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Swindlers and swindling -- Fiction'
+- !lcsh 'Capitalists and financiers -- Fiction'
+- GITenberg
+title: The Market-Place
+url: http://www.gutenberg.org/ebooks/298
