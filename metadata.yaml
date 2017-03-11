@@ -1,5 +1,8 @@
 _repo: The-Market-Place_298
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frederic, Harold
@@ -13,6 +16,8 @@ description: 'Published in 1899, just after his unexpected death, The Market-Pla
   into its hero the late-Victorian equivalent of Gordon Gekko an amoral London businessman
   named Joel Thorpe, caring for only two things in the world: money and power. He
   prefers to hoard the former and spend the latter.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/298#The-Market-Place
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2008-07-09'
 gutenberg_type: Text
